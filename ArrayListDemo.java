@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class ArrayListDemo {
-	public static void arrayList() {
+	public void arrayList() {
 		List<String> al =new ArrayList<String>();
 		al.add("pooja");
 		al.add("avni");
